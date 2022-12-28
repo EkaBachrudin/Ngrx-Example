@@ -1,6 +1,5 @@
 # Usage
 ### Run Json Server
-Make 
 ```bash
 npm run json-run
 ```
